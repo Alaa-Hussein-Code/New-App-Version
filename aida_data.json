@@ -1,0 +1,18 @@
+{
+    "Attention": [
+        "what is", "how to", "why is", "solve", "guide", "tutorial", "definition", 
+        "basics", "idea", "start", "learn about", "examples"
+    ],
+    "Interest": [
+        "best", "top 10", "compare", "alternative", "list of", "software for", 
+        "pros and cons", "tools", "methods", "strategies"
+    ],
+    "Desire": [
+        "review", "cost", "price", "cheap", "discount", "coupon", "vs", 
+        "comparison", "features", "specs", "case study", "free trial"
+    ],
+    "Action": [
+        "buy", "order", "purchase", "sign up", "download", "hire", "contact", 
+        "get started", "demo", "apply", "register", "near me"
+    ]
+}
